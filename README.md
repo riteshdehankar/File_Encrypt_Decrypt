@@ -6,7 +6,7 @@ This Java program provides a **GUI-based File Encryptor and Decryptor** using Sw
 
 The FileEncryptDecryptGUI is a Java Swing-based desktop application that allows users to easily encrypt and decrypt text files using a simple graphical interface. With its modern dark-themed UI 🎨, it offers a clean and efficient way to protect sensitive text data using a basic Caesar Cipher algorithm.
 
-🌟 Key Features
+🌟 Key Features:-
 
 🖥️ User-Friendly GUI:
 Built with Java Swing and a stylish dark theme for a professional look and smooth interaction.
